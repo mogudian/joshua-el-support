@@ -7,7 +7,7 @@ import java.util.Map;
 /**
  * 表达式执行器
  *
- * @author sunbo
+ * @author joshua
  */
 public interface ExpressionExecutor {
 

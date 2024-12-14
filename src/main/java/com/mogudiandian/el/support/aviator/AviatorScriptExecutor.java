@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * Aviator脚本执行器
  *
- * @author sunbo
+ * @author joshua
  */
 public final class AviatorScriptExecutor implements ExpressionExecutor {
 

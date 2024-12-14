@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * 测试groovy脚本
  *
- * @author sunbo
+ * @author joshua
  */
 public class GroovyScriptExecutorTest {
 

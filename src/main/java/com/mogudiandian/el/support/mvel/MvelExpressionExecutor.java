@@ -10,7 +10,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * MVEL表达式执行器
  *
- * @author sunbo
+ * @author joshua
  */
 public final class MvelExpressionExecutor implements ExpressionExecutor {
 

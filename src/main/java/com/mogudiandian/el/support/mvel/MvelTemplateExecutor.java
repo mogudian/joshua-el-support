@@ -11,7 +11,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * MVEL模板执行器
  *
- * @author sunbo
+ * @author joshua
  */
 public final class MvelTemplateExecutor implements ExpressionExecutor {
 

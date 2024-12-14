@@ -23,7 +23,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * Groovy脚本执行器
- * @author sunbo
+ * @author joshua
  */
 public final class GroovyScriptExecutor implements ExpressionExecutor {
 
